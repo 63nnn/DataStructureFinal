@@ -9,3 +9,7 @@
 >
 >* <https://ponnyfrank.com/2020/02/26/dna-sequencing-and-python-1/>
 >* <https://ponnyfrank.com/2020/03/02/dna-sequencing-and-python-2/>
+
+## 心得一
+>
+> 這東西光是下載就有問題了
